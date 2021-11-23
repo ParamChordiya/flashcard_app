@@ -1,0 +1,40 @@
+.title{
+    font-family: 'Comforter', cursive;
+    text-align: center;
+}
+
+.term{
+    border: solid 5px red;
+    border-radius: 12px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.definition{
+    border: solid 5px red;
+    border-radius: 12px;
+    text-align: center;
+    width: 45%;
+    margin: auto;
+    margin-top: 100px;
+    display: none;
+}
+
+.button{
+    text-align: center;
+    margin-top: 100px;
+    
+}
+
+button{
+    color: black;
+    background-color: rgb(255, 10, 51);
+    padding: 15px;
+    border-radius: 8px;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
